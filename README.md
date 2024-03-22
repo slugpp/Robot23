@@ -18,7 +18,7 @@ source install/setup.bash
 
 /////// For open gazebo with robot model and world ///////
 
-ros2 launch articubot_one launch_sim.launch.py world:=/home/pong09/Project_ws/src/articubot_one/world/First_world.world
+ros2 launch articubot_one launch_sim.launch.py world:=/home/pong09/Project_ws/src/articubot_one/world/First.world
 
 /////// For open teleop twist keyboard ////////
 
