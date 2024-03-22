@@ -2,7 +2,7 @@
 for Project
 //////// To enter workspace ////////
 
-cd Robot_project_ws/
+cd Project_ws/
 
 //////// Used these commands everytimes before use every commands ////////
 
